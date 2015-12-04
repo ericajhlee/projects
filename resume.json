@@ -1,0 +1,86 @@
+{"Erica Lee": 
+{
+	"BasicInfo" :
+		{
+			"FirstName" : "Erica",
+			"LastName"  : "Lee",
+			"Email"     : "ericajhlee@gmail.com",
+			"Phone"     : "(812) 369-0745",
+			"Location"  : "San Francisco, CA",
+			"Github"    : "https://github.com/ericajhlee/projects",
+			"LinkedIn"  : "https://www.linkedin.com/in/ericajhlee"},
+
+	"Skills" :
+		{"Programming": ["Python", "R", "SAS", "SQL", "Tableau", "LATEX"],
+		 "Language"   : ["English", "Korean"]},
+
+	"Education" :
+		{"Undergraduate" : {"Institute" : "Indiana University - Bloomington",
+							"Degree" : "Bachelors of Science in Statistics",
+							"Minors"  : ["Mathematics", "Economics", "Music"],
+							"Date"   : 2013,
+							"Courses": ["Exploratory Data Analysis",
+										"Applied Linear Models",
+										"Statistical Consulting",
+										"Econometric Theory and Practice"],
+							"Awards" : "IU Recognition Scholarship & Academic Excellence Award"},
+
+		 "Graduate"		:  {"Institute" : "University of San Francisco",
+							"Degree" : "Master of Science in Analytics",
+							"Date"   : 2016,
+							"Courses": ["Predictive Analysis", 
+										"Statistical Modeling",
+										"Text Mining",
+										"Data Visualization",
+										"Business Communication",
+										"Optimization"]}
+		},
+
+	"Projects" : {"Sentiment Prediction Analysis": "(Python) Analysis using text mining techniques (regularexpressionsand other parsing methods); The classifier algorithm accuracy level: 80%",
+				   "Exploratory Data Analysis": "(R) Analysis on Prosper Loan Data using statistical tests, data visualization along with data cleaning",
+				   "Predicting Movie Earnings": "(Python) Prediction Analysis on Rotten Tomatos data (html and json) using scraping and crawling techniques"},
+	
+	"WorkExperience" : {
+						"Dow AgroSciences" : 
+									{"Title" : "Statistician",
+									 "Dates" : "06/2013 - 06/2015",
+									 "Location" : "Indianapolis, IN",
+									 "Projects" : ["Delivered optimal price recommendations using econometrics theory on price elasticity of demand and Bayesian theory (SAS)",
+												   "Enabled interactive visual tools to validate different demand forecasting models for better business decisions (Tableau)",
+												   "Analyzed ROI’s and delivered recommendations for different marketing and rebate programs for multiple countries (Tableau, SAS)",
+												   "Identified poorly performing products via exploratory data mining techniques (R,SAS)"]
+									},					
+
+						 "National Assembly, Foreign Affairs": 
+						 			{"Title" : "Research Assistant, Intern",
+						 			 "Dates" : "09/2010 - 12/2010",
+						 			 "Location": "Seoul, South Korea",
+						 			 "Projects" : ["Analyzed records of expenses to identify anomalous transactions of the department",
+												   "Prepared weekly reports and questionnaires for the representative of the National Assembly",
+												   "Managed online database of the representative's public homepage"]
+									},
+
+					 	 "Korean Standards Association" :
+						 			{"Title" : ["Research Assistant, Intern", "Translator"],
+						 			 "Dates" : "06/2010 - 08/2010",
+						 			 "Location" : "Seoul, South Korea",
+						 			 "Projects" : ["Constructed a comprehensive chart of standardization certifications of different countries for company’s resource",
+												   "Created a database in Excel to manage and update online information"
+												   ]
+						 			}
+					 	 },					 	
+	
+	"Statistical Consulting": {"Analysis on Protein Levels in Cell Cycle" : {"Consulting Dates": "06/2014 - 07/2014",
+																			  "Description": "Designed and performed statistical analysis for protein synthesis data to identify the key signals throughout the cell cycle",
+																			  "Publication": "Yuan,Xi,etal. Uncovering the role of APC-Cdh1 in generating the dynamics of S-phase onset. Molecular biology of the cell 25.4 (2014): 441-456.",
+																			  "Organization": "Department of Biology, Indiana University - Bloomington"},
+							   "Aurora Protein Synthesis Data Analysis": {"Consulting Dates":"02/2014",
+																		   "Description":"Consulted for a biology paper regarding data visualization and statistical tests such as ANOVA and outlier detection",
+																		   "Organization": "Department of Biology, Indiana University - Bloomington"},
+							   "Effectiveness of Presidential Active Lifestyle Award":{"Consulting Dates":"08/2013",
+																					    "Description":"Performed statistical tests on different interventions to identify the most effective demographic target as well as the intervention itself",
+																					    "Organization": "School of Public Health, Indiana University - Bloomington"}}
+
+	}
+
+}
