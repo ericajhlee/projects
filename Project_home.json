@@ -1,5 +1,5 @@
-{	"READ ME": "Welcome to Erica's App. Please read the contents to view what the app has to offer!",
-	"Contents": 
+{	"READ ME"	: "Welcome to Erica's App. Please read the contents to view what the app has to offer!",
+	"Contents"	: 
 	
 				{	"Growth": 
 								{
@@ -29,5 +29,13 @@
 								}
 				},
 
-	"Thank you!": ":)"
+	"Thank you!": ":)",
+	
+	"Just Because": {
+						"Resume": 
+									{
+										"Link"			: "52.11.222.117:5000/resume",
+										"Description"	: "This is so cool!"
+									}
+					}
 }
