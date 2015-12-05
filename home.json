@@ -1,0 +1,33 @@
+{	"READ ME": "Welcome to Erica's App. Please read the contents to view what the app has to offer!",
+	"Contents": 
+	
+				{	"Growth": 
+								{
+									"Link"			: "52.11.222.117:5000/growth",
+									"Description"	: "view amazon's growth over the years in terms of review counts and asin counts"
+								},
+
+					"Cross Buy":
+								{
+									"Link"			: "52.11.222.117:5000/crossbuy"
+									"Description"	: "The number of categories that are bought together the most"
+								}
+
+					"Cross Buy by Category": 
+								{
+									"Link"		 	: "52.11.222.117:5000/crossbuy/<category>",
+									"Description"	: "Given a category, the number of categories that are bought together the most",
+									"Link example1"	: "/crossbuy/Pop",
+									"Link example2"	: "/crossbuy/Latin%20Music",
+									"Link example3"	: "crossbuy/Rap%20&%20Hip-Hop"
+								},
+
+					"Cross Buy":
+								{
+									"Link"			: "52.11.222.117:5000/MostReviewed"
+									"Description"	: "Top 5 most reviewed categories by year"
+								}
+				},
+
+	"Thank you!": ":)"
+}
