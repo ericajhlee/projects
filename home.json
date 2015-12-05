@@ -9,9 +9,9 @@
 
 					"Cross Buy":
 								{
-									"Link"			: "52.11.222.117:5000/crossbuy"
+									"Link"			: "52.11.222.117:5000/crossbuy",
 									"Description"	: "The number of categories that are bought together the most"
-								}
+								},
 
 					"Cross Buy by Category": 
 								{
@@ -24,7 +24,7 @@
 
 					"Cross Buy":
 								{
-									"Link"			: "52.11.222.117:5000/MostReviewed"
+									"Link"			: "52.11.222.117:5000/MostReviewed",
 									"Description"	: "Top 5 most reviewed categories by year"
 								}
 				},
