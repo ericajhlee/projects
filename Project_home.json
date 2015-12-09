@@ -17,9 +17,9 @@
 								{
 									"Link"		 	: "52.11.222.117:5000/crossbuy/<category>",
 									"Description"	: "Given a category, the number of categories that are bought together the most",
-									"Link example1"	: "/crossbuy/Pop",
-									"Link example2"	: "/crossbuy/Latin%20Music",
-									"Link example3"	: "crossbuy/Rap%20&%20Hip-Hop"
+									"Link example1"	: "52.11.222.117:5000/crossbuy/Pop",
+									"Link example2"	: "52.11.222.117:5000/crossbuy/Latin%20Music",
+									"Link example3"	: "52.11.222.117:5000crossbuy/Rap%20&%20Hip-Hop"
 								},
 
 					"Cross Buy":
